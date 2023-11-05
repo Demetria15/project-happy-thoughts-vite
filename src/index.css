@@ -10,7 +10,7 @@
 
 body{
   color: rgb(231, 45, 181);
-  background-image: url("public/images/happy-thought-bkg.png.jpg");
+  background-image: url("public/assets/examples/happy-thought-bkg.png.jpg");
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
